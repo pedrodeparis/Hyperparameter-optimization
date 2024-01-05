@@ -9,7 +9,7 @@ Welcome to my Hyperparameter Optimization project using the GradientBoostingRegr
 
 ## Key Components:
 1. **Code:**
-   - The main script (`hyperparameter optimization`) contains the implementation of GradientBoostingRegressor and GridSearchCV.
+   - The main script (`Hyperparameter_optimization.ipyn`) contains the implementation of GradientBoostingRegressor and GridSearchCV.
 
 2. **Dataset:**
    - Used the famous temperature dataset to test the regressions.
